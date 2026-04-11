@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant census for the Greater Miami metro area including Fort Lauderdale and West Palm Beach. Captures South Florida's vibrant and tourism-driven dining scene, filtered by the Restaurants category group. Features business profiles, review analytics, competitive positioning, and contact data. Refreshed weekly.",
+  "config_name": "All Restaurants in Greater Miami Area (Metro), Florida, US",
+  "export_job_id": "5934b703-e8c7-40d9-8872-00cfd28c9eee",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 239219,
+  "location_name": "Miami-Fort Lauderdale-West Palm Beach, FL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-greater-miami-area-metro-florida-us-sample-239219",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/239219/beamstation_239219_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_pct": 6.92,
+  "sample_records": 1000,
+  "sample_sha256": "91e886d81b57cf476de5176ff7eaed53f56f4b7c3a80e212770eefa4f8f96a5c",
+  "sample_size_bytes": 3299993,
+  "total_records": 14455,
+  "updated_at": "2026-04-09T19:05:08.967310+00:00"
+}
