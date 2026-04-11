@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5934b703-e8c7-40d9-8872-00cfd28c9eee",
+  "id_short": 239219,
+  "published_at": "2026-04-11T07:12:44Z",
+  "repo_name": "all-restaurants-in-greater-miami-area-metro-florida-us-sample-239219",
+  "sample_asset_name": "beamstation_239219_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/239219/beamstation_239219_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "91e886d81b57cf476de5176ff7eaed53f56f4b7c3a80e212770eefa4f8f96a5c",
+  "sample_size_bytes": 3299993,
+  "total_records": 14455
+}
