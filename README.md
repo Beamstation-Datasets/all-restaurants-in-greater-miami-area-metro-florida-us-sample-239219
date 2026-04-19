@@ -9,9 +9,9 @@
 | Dataset ID | `239219` |
 | Location | Miami-Fort Lauderdale-West Palm Beach, FL |
 | Category | Restaurants |
-| Full dataset size | 14,455 records |
-| Free sample size | 1,000 records (6.92%) |
-| Last export | 2026-04-09T19:05:08.967310+00:00 |
+| Full dataset size | 14,182 records |
+| Free sample size | 1,000 records (7.05%) |
+| Last export | 2026-04-16T22:53:44.356737+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-miami-area-metro-florida-us-sample-239219/releases/download/sample-latest/beamstation_239219_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
