@@ -1,6 +1,6 @@
 # All Restaurants in Greater Miami Area (Metro), Florida, US
 
-> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+> Free BeamStation sample export with 796 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `239219` |
 | Location | Miami-Fort Lauderdale-West Palm Beach, FL |
 | Category | Restaurants |
-| Full dataset size | 14,182 records |
-| Free sample size | 1,000 records (7.05%) |
-| Last export | 2026-04-16T22:53:44.356737+00:00 |
+| Full dataset size | 7,965 records |
+| Free sample size | 796 records (9.99%) |
+| Last export | 2026-04-23T17:12:23.713970+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-miami-area-metro-florida-us-sample-239219/releases/download/sample-latest/beamstation_239219_restaurants-us-miamifortlauderdalewestpalmbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
